@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://iamgora97.github.io/csb-f82dkd/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://iamgora97.github.io/csb-f82dkd/static/js/main.40c780ff.chunk.js",
+    "main.js.map": "https://iamgora97.github.io/csb-f82dkd/static/js/main.40c780ff.chunk.js.map",
+    "runtime-main.js": "https://iamgora97.github.io/csb-f82dkd/static/js/runtime-main.0f60fcaa.js",
+    "runtime-main.js.map": "https://iamgora97.github.io/csb-f82dkd/static/js/runtime-main.0f60fcaa.js.map",
+    "static/js/2.7a93b651.chunk.js": "https://iamgora97.github.io/csb-f82dkd/static/js/2.7a93b651.chunk.js",
+    "static/js/2.7a93b651.chunk.js.map": "https://iamgora97.github.io/csb-f82dkd/static/js/2.7a93b651.chunk.js.map",
+    "index.html": "https://iamgora97.github.io/csb-f82dkd/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://iamgora97.github.io/csb-f82dkd/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.7a93b651.chunk.js.LICENSE.txt": "https://iamgora97.github.io/csb-f82dkd/static/js/2.7a93b651.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f60fcaa.js",
+    "static/js/2.7a93b651.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.40c780ff.chunk.js"
+  ]
+}
